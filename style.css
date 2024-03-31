@@ -121,7 +121,7 @@ img {
     pointer-events: auto;
 }
 .boxchoose h2 {
-    color: #f66;
+    color: #000000;
     font-size: 30px;
     filter: drop-shadow(0 0 100px rgb(255, 0, 0));
     text-shadow: 1px 3px 8px #ffcdcd;
